@@ -30,8 +30,8 @@ The right parts shows how to build B:
 After you connect A to the Gotek drive as shown above, follow these steps:
 ### Create and save the data file
 * Create a data.cfg file and edit it as follows:
-    * the first line must contain the MAC address of A, seperated by commas. [Here](https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/) you can see how to read the ESP MAC address. Example for MAC address CC:50:E3:B5:A1:1C in the data file:
-        * CC,50,E3,B5,A1,1C 
+    * the first line must contain the MAC address of A, seperated by commas. [Here](https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/) you can see how to read the ESP MAC address. Example for MAC address B4:E6:2D:8F:D8:E1 in the data file:
+        * B4:E6:2D:8F:D8:E1 
     * each subsequent line must contain a single image's data in the form of &lt;name&gt;,&lt;disk&gt;,&lt;total disks&gt;. Example with HXC firmware and Desert Strike images: 
         * HXCFECFGV1.0,1,1
         * Desert Strike,1,3
