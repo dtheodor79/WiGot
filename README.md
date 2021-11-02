@@ -71,4 +71,6 @@ Always power on first the Amiga and then directly the wireless controller B. Wai
 
 ![Here](/gotek_ctrl/pcb) you can find a clumsy PCB made with KiCAD for the wireless controller.
 
+![Model](/images/gotek_ctrl.png)
+
 Hope you find it useful!! :sunglasses: 
