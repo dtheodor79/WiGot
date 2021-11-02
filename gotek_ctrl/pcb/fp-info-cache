@@ -1,4 +1,4 @@
-18646187559850858
+18652695290483047
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82039,6 +82039,13 @@ varistor SIOV
 0
 2
 2
+esp32_d1_mini
+ESP32_mini
+
+
+0
+40
+40
 pcb_sim7000
 alert
 
@@ -82123,3 +82130,24 @@ weight
 0
 0
 0
+wigot
+ky040_rotary_encoder
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+wigot
+oled_128x32
+Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x04 2.54mm single row
+0
+4
+4
+wigot
+sd_card_module
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
