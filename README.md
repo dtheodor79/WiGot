@@ -73,6 +73,6 @@ Always power on first the Amiga and then directly the wireless controller B. Wai
 
 ![Model](/images/gotek_ctrl.png)
 
-![Controller_Pcb](/images/gotek_ctrl_pcb.png)
+![Controller_Pcb](/images/gotek_ctrl_pcb.jpg)
 
 Hope you find it useful!! :sunglasses: 
